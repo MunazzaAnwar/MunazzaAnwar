@@ -2,7 +2,7 @@
 
 # Hi, I'm Munazza Anwar 👋
 
-### Computer Science Undergraduate | AI & Machine Learning | Full-Stack Web Developer
+### Computer Science Student | AI & Machine Learning | Full-Stack Web Developer
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Building+with+React+%2C+Python+%26+Tailwind;Always+exploring+new+tech" alt="Typing SVG" />
 
