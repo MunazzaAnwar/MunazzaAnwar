@@ -144,9 +144,9 @@ CGPA: 3.35/4.0 · Coursework: Data Structures & Algorithms, OOP, DBMS, Operating
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/munazza-anwar)
+[![LinkedIn]](https://www.linkedin.com/in/munazza-anwar-/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:munazzanwar@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=munazzaanwar&color=1F3864&style=flat-square&label=Profile+Views)
+![Profile Views](https://munazzaanwar.github.io/Portfolio/)
 
 </div>
